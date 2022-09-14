@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hi there! :wave:
 
 My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Front-End developer. 
 
