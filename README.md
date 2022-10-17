@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Data Analyst (entry level). 
+My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Front-end Developer(entry level). 
 
 In my free time i like watch soccer games (⚽️), practice my code, watch movies and series (🎞️), listen to music (🎵), play some games(:video_game:) and drink a good beer(:beer:).
 
