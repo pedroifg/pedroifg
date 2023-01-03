@@ -1,4 +1,4 @@
-### Hi there! :wave:
+### Hi,
 
 My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Software QA Tester(entry level). 
 
