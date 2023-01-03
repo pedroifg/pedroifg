@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Front-end Developer(entry level). 
+My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Software QA Tester(entry level). 
 
 In my free time i like watch soccer games (⚽️), practice my code, watch movies and series (🎞️), listen to music (🎵), play some games(:video_game:) and drink a good beer(:beer:).
 
@@ -8,6 +8,7 @@ In my free time i like watch soccer games (⚽️), practice my code, watch movi
 
 ### Skills: 
 <p>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
