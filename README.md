@@ -1,6 +1,6 @@
 ### Hi,
 
-My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Software QA Tester(entry level). 
+My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Software Developer(entry level). 
 
 In my free time i like watch soccer games (⚽️), practice my code, watch movies and series (🎞️), listen to music (🎵), play some games(:video_game:) and drink a good beer(:beer:).
 
