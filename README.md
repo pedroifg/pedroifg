@@ -7,7 +7,8 @@ In my free time i like watch soccer games (⚽️), practice my code, watch movi
 ![Grisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroifg&show_icons=true&theme=dracula)
 
 ### Skills: 
-<p>  
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
   <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
