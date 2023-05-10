@@ -34,5 +34,5 @@ I'm Pedro Ivo ⚡, this is my personal repository
 <p align="center">
 	<a href="https://github.com/pedroifg"><img src="https://img.shields.io/github/followers/jeanrauwers.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/pedroivogrisi/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/pedroivogrisi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram></a>
+	<a href="https://www.instagram.com/pedroivogrisi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram"></a>
 </p>
