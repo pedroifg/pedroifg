@@ -1,16 +1,3 @@
-### Hi,
-
-My name is Pedro Ivo Grisi. I'm a IT student and Software Developer. 
-
-![Grisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroifg&show_icons=true&theme=dracula)
-
-Would you like to find me? These are my main social networks: <br>
-  <a href="https://www.linkedin.com/in/pedroivogrisi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/pedroivogrisi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a></a>
-  <a></a>
-</ul>
-
 ## About
 \
 &nbsp;
@@ -45,8 +32,7 @@ I'm Pedro Ivo ⚡, this is my personal repository
 
 &nbsp;
 <p align="center">
-	<a href="https://github.com/jeanrauwers"><img src="https://img.shields.io/github/followers/jeanrauwers.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/jeanrauwers"><img src="https://img.shields.io/twitter/follow/jeanrauwers?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/jeanrauwers"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/dev.jeanrauwers/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram></a>
+	<a href="https://github.com/pedroifg"><img src="https://img.shields.io/github/followers/jeanrauwers.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/pedroivogrisi/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.instagram.com/pedroivogrisi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram></a>
 </p>
