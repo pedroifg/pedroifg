@@ -8,7 +8,7 @@
 
 &nbsp;
 <div align="center">
-I'm Pedro Ivo 👨‍💻, this is my personal repository 
+I'm Pedro Ivo 👨‍💻, this is my personal code repository.
 </div>
 
 &nbsp;
