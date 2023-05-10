@@ -1,6 +1,6 @@
 ### Hi,
 
-My name is Pedro Ivo Grisi from Brazil. I'm a IT student and Software Developer. 
+My name is Pedro Ivo Grisi. I'm a IT student and Software Developer. 
 
 ![Grisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroifg&show_icons=true&theme=dracula)
 
