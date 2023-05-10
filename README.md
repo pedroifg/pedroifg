@@ -32,13 +32,13 @@ I'm Pedro Ivo ⚡, this is my personal repository
 ## Stats
 <br/>
 <div align="center">
-	<img src="https://gh-readme.vercel.app/api?username=jeanrauwers&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
-	<img src="https://gh-readme.vercel.app/api/top-langs/?username=jeanrauwers&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
+	<img src="https://gh-readme.vercel.app/api?username=pedroifg&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" align="center" />
+	<img src="https://gh-readme.vercel.app/api/top-langs/?username=pedroifg&layout=compact&langs_count=10&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&card_width=220" align="center" />
 </div>
 <br/>
 
 <p align="center">
-	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeanrauwers&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px"></a>
+	<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=pedroifg&hide_border=true&date_format=j%20M%5B%20Y%5D&background=040506&ring=00cbf3&fire=00cbf3&currStreakNum=00cbf3&sideNums=00cbf3&sideLabels=00cbf3&dates=00cbf3&currStreakLabel=00cbf3&stroke=040506" width="495px" height="195px"></a>
 </p>
 <br/>
 
